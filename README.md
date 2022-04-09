@@ -14,4 +14,4 @@ Ferramentas de desenvolvimento web
 
 
 <br><br>
-<b>Última atualização em 9/4/22</b>
+<b>Atualizado 9/4/22</b>
