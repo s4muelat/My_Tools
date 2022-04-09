@@ -2,9 +2,16 @@
 Ferramentas de desenvolvimento web
 
 
-Gerador de imagens -------------------- http://lorempixel.com.br/ 
+<b>Gerador de imagens</b> -------------------------------- http://lorempixel.com.br/
 <br>
-Combinador de coleres ----------------- https://color.adobe.com/pt/create
+<b>Combinador de cores da Adobe<b> ----------------------- https://color.adobe.com/pt/create
+<br>
+<b>Gerador de CPF, nome, RG, CEP e API (muito útil) ------ https://www.invertexto.com/
 
 
-Última atualização em 9/4/22
+
+
+
+
+<br><br>
+<b>Última atualização em 9/4/22</b>
