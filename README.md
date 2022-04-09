@@ -2,7 +2,7 @@
 Ferramentas de desenvolvimento web
 
 
-<b>Gerador de imagens</b> ------------------------------------- http://lorempixel.com.br/
+<a href='http://lorempixel.com.br/' target="_blank">Gerador de imagens</a> 
 <br>
 <b>Combinador de cores da Adobe</b> --------------------------- https://color.adobe.com/pt/create
 <br>
