@@ -12,5 +12,10 @@
 
 <a href='https://rbmweb.solides.jobs/' target='_blank'>2 - RBM Web</a>
 
+
+# Dicas de segurança web 
+
+<a href='http://mathiasbynens.github.io/rel-noopener/'>1 - Perigo de usar blank</a>
+
 <br><br>
 <b>Atualizado 9/4/22</b>
