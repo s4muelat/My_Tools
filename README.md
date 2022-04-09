@@ -8,7 +8,7 @@
 
 # Empresas para buscar empregos
 
-<a href='https://carrera.sonda.com/' target='_blank'>1 - SONDA</a>
+<a href='https://carrera.sonda.com/' target='_blank' rel="noopener">1 - SONDA</a>
 
 <a href='https://rbmweb.solides.jobs/' target='_blank'>2 - RBM Web</a>
 
