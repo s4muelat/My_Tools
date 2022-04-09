@@ -15,7 +15,7 @@
 
 # Dicas de segurança web 
 
-<a href='http://mathiasbynens.github.io/rel-noopener/'>1 - Perigo de usar blank</a>
+<a href='http://mathiasbynens.github.io/rel-noopener/'>1 - Perigo de usar blank (<a href='https://github.com/frontendbr/forum/discussions/87'>Complemento</a></a>
 
 <br><br>
 <b>Atualizado 9/4/22</b>
